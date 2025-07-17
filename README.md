@@ -74,9 +74,13 @@
 
 
 📦 Project Structure
+
 03_file_organizer_pro
+
   ├── Code.gs
+  
   ├── README.md
+  
   └── example_sheet.png (optional screenshot)
 
 
